@@ -1,5 +1,7 @@
 #!/bin/bash
 
+ERRARGS=99
+
 if [ "$1" == "build" ]; then
     cd /root/rpmbuild/SOURCES/
     spectool  -g /BUILD/ruby21x.spec  -d /root/rpmbuild/SOURCES/
