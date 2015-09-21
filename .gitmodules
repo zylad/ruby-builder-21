@@ -1,0 +1,3 @@
+[submodule "ruby-2.1.x-rpm"]
+	path = ruby-2.1.x-rpm
+	url = https://github.com/hansode/ruby-2.1.x-rpm.git
